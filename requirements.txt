@@ -1,0 +1,3 @@
+# Optional. Only the MySQL section of 17-databases needs this package.
+# Everything else in the repository uses the Python standard library.
+mysql-connector-python>=8.0

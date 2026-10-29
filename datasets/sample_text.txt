@@ -1,0 +1,5 @@
+Python is a popular programming language. It was created by Guido van Rossum and first released in 1991.
+Python is easy to read and easy to learn, which makes it a great first language.
+It is used for web development, data analysis, automation, artificial intelligence and much more.
+Python runs on Windows, macOS and Linux.
+Many beginners start with Python because the code looks almost like plain English.

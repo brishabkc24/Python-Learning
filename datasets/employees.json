@@ -1,0 +1,10 @@
+[
+  {"id": 101, "name": "Asha Koirala", "department": "Engineering", "salary": 85000, "joined": "2021-03-15", "city": "Kathmandu"},
+  {"id": 102, "name": "Bibek Thapa", "department": "Marketing", "salary": 62000, "joined": "2019-07-01", "city": "Pokhara"},
+  {"id": 103, "name": "Deepa Rana", "department": "Engineering", "salary": 91000, "joined": "2018-11-20", "city": "Lalitpur"},
+  {"id": 104, "name": "Kiran Basnet", "department": "Finance", "salary": 70000, "joined": "2022-01-10", "city": "Kathmandu"},
+  {"id": 105, "name": "Mina Gurung", "department": "Human Resources", "salary": 58000, "joined": "2020-05-18", "city": "Butwal"},
+  {"id": 106, "name": "Nikesh Shrestha", "department": "Engineering", "salary": 78000, "joined": "2023-02-01", "city": "Bhaktapur"},
+  {"id": 107, "name": "Pooja Maharjan", "department": "Marketing", "salary": 66000, "joined": "2021-09-13", "city": "Lalitpur"},
+  {"id": 108, "name": "Suman Adhikari", "department": "Finance", "salary": 73000, "joined": "2017-04-25", "city": "Kathmandu"}
+]
