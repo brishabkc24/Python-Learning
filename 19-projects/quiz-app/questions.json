@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which keyword defines a function in Python?",
+    "options": ["func", "def", "function", "define"],
+    "answer": "b"
+  },
+  {
+    "question": "What does print(type(3.0)) show?",
+    "options": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'double'>"],
+    "answer": "b"
+  },
+  {
+    "question": "Which of these data types can be changed after it is created (mutable)?",
+    "options": ["tuple", "str", "list", "int"],
+    "answer": "c"
+  },
+  {
+    "question": "How does a single-line comment start in Python?",
+    "options": ["//", "/*", "#", "--"],
+    "answer": "c"
+  },
+  {
+    "question": "What does len(\"Python\") return?",
+    "options": ["5", "6", "7", "An error"],
+    "answer": "b"
+  },
+  {
+    "question": "Which list method adds one item at the end of the list?",
+    "options": ["add()", "push()", "insert()", "append()"],
+    "answer": "d"
+  },
+  {
+    "question": "What is the result of 7 // 2?",
+    "options": ["3.5", "3", "4", "1"],
+    "answer": "b"
+  },
+  {
+    "question": "Which pair of keywords handles exceptions?",
+    "options": ["try / except", "do / catch", "if / else", "catch / throw"],
+    "answer": "a"
+  },
+  {
+    "question": "Inside a method, what does self refer to?",
+    "options": ["The class itself", "The current object", "A global variable", "The parent class"],
+    "answer": "b"
+  },
+  {
+    "question": "Which built-in function reads a line typed by the user?",
+    "options": ["read()", "scan()", "input()", "get()"],
+    "answer": "c"
+  }
+]
