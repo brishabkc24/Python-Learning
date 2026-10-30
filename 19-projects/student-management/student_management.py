@@ -139,8 +139,7 @@ def print_table(students):
         print(student)
 
 
-def main():
-    db = StudentDB(DB_FILE)
+def main(db):
     if db.count() == 0:
         added = db.seed_from_csv(CSV_FILE)
         print(f"First run: loaded {added} students from {CSV_FILE.name}.")
@@ -173,7 +172,6 @@ def main():
         elif choice == "6":
             print_table(db.top(ask_int("How many top students? ", 1, 100)))
         elif choice == "7":
-            db.close()
             print("Goodbye!")
             break
         else:
@@ -181,7 +179,10 @@ def main():
 
 
 if __name__ == "__main__":
+    db = StudentDB(DB_FILE)
     try:
-        main()
+        main(db)
     except (KeyboardInterrupt, EOFError):
         print("\nGoodbye!")
+    finally:
+        db.close()
