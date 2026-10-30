@@ -23,7 +23,7 @@ No prior programming experience is needed.
 Run any script from the repository root or from its own folder:
 
 ```bash
-python 04-loops/examples/01_for_loop.py
+python 04-loops/examples/01_for_and_range.py
 ```
 
 ## Learning path
